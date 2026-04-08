@@ -127,3 +127,14 @@ streamlit run app.py
 ---
 
 ⭐ If you like this project, give it a star!
+
+## 📸 Screenshots
+
+### 🔮 Prediction Page
+![Prediction](student_performance/assets/Prediction_Page.jpeg)
+
+### 📊 Analytics Dashboard
+![Analytics](student_performance/assets/Analytics.jpeg)
+
+### 📋 Logs Page
+![Logs](student_performance/assets/Logs.jpeg)
